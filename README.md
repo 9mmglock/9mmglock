@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IAmStrobe
+- 👀 I’m interested in graffiti and coding
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Discord bots
+- 📫 Reach me on Discord: iamStrobe#0001
