@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IAmStrobe
+- 👋 Hi, I’m @iamStrobe
 - 👀 I’m interested in producing and coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Discord bots
