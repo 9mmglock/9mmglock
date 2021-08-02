@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @iamStrobe
-- 👀 I’m interested in producing and coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Discord bots
-- 📫 Reach me on Discord: iamStrobe#0001
+♠ - hello!
+♠
+♠ - my name is 9mmglock
+♠ - i'm a developer / producer
+♠ 
+♠ - here are some projects i'm working on:
+♠
+♠ - minecraft pvp client - STATUS: ⚠️
+♠ - discord bot          - STATUS: ⚠️
+♠ - rust recoil script   - STATUS: ⚠️
