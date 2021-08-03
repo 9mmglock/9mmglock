@@ -7,6 +7,12 @@
 ♠  
 ♠ - minecraft pvp client - STATUS: ⚠️  
 ♠  
-♠ - discord bot - STATUS: ⚠️  
+♠ - website for client - STATUS: ⛔  
 ♠  
-♠ - rust recoil script - STATUS: ⚠️  
+♠ - discord bot - STATUS: ⛔️  
+♠  
+♠ - ✅ = RELEASED  
+♠  
+♠ - ⚠️ = ALPHA/BETA   
+♠  
+♠ - ⛔️ = IN PROGRESS/NOT STARTED
