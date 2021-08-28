@@ -1,5 +1,5 @@
 ♠ - hello 🔎  
-♠ - my name is 9mmglock 👻  
+♠ - my name is Zuxsy 👻  
 ♠ - i'm a developer / producer 💻  
 ♠ - here are some projects i'm working on 📋  
 ♠  
