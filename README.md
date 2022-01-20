@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Zuxsy</h1>
+<h1 align="center">Hi 👾, I'm Zuxsy</h1>
 <h3 align="center">A PY, JS & C# developer from Sweden.</h3>
 
-- 🔭 I’m currently working on [Kodein Network](https://discord.gg/c7PNkz4ydm)
+- 💜 I’m currently working on [Kodein Network](https://discord.gg/c7PNkz4ydm)
 
-- 🌱 I’m currently learning **server networking**
+- 💜 I’m currently learning **server networking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
