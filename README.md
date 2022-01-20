@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👾, I'm Zuxsy</h1>
-<h3 align="center">A PY, JS & C# developer from Sweden.</h3>
+<h3 align="center">A PY, JS & C# developer from Russia.</h3>
 
 - 💜 I’m currently working on [REDACTED PROJECT]
 
