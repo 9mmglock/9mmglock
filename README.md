@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👾, I'm Zuxsy</h1>
-<h3 align="center">A PY, JS & C# developer from Russia.</h3>
+<h3 align="center">A PY, JS & C# developer.</h3>
 
-- 💜 I’m currently working on [REDACTED PROJECT]
+- 💜 I’m currently working on the following projects:
+
+- 💜 | ⚠️ = Making an original webiste
+
+- 💜 | ⚠️ = A multi-username checker
 
 - 💜 I’m currently learning **server networking**
 
