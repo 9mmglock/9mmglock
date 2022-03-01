@@ -3,9 +3,9 @@
 
 - 💜 I’m currently working on the following projects:
 
-- 💜 | ⚠️ = Making an original webiste
+- 💜 | ⚠️ = Personal website
 
-- 💜 | ⚠️ = A multi-username checker
+- 💜 | ⚠️ = Kyoto Sniper | https://discord.gg/snipe
 
 - 💜 I’m currently learning **server networking**
 
