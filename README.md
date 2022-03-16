@@ -1,8 +1,8 @@
-<h1 align="center">$ Z U X S Y $</h1>
+<h1 align="center">$ * |  Z U X S Y  | * $</h1>
 
 - ❀ | Personal website | https://zuxsy.com/
 
-- ❀ | Kyoto Sniper | https://discord.gg/snipe
+- ❀ | Kyoto Sniper     | https://discord.gg/snipe
 
 - ❀ I’m currently learning **Server Networking** and **HTML/CSS/JS**
 
