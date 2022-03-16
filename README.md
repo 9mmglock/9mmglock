@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👾, I'm Zuxsy</h1>
-<h3 align="center">A PY, JS & C# developer.</h3>
+<h1 align="center">$ Z U X S Y $</h1>
 
-- 💜 | ⚠️ = Personal website | https://zuxsy.com/
+- ❀ | Personal website | https://zuxsy.com/
 
-- 💜 | ⚠️ = Kyoto Sniper | https://discord.gg/snipe
+- ❀ | Kyoto Sniper | https://discord.gg/snipe
 
-- 💜 I’m currently learning **server networking**
+- ❀ I’m currently learning **Server Networking** and **HTML/CSS/JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="c7PNkz4ydm" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/282167601096949761/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="c7PNkz4ydm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
