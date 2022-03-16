@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👾, I'm Zuxsy</h1>
 <h3 align="center">A PY, JS & C# developer.</h3>
 
-- 💜 I’m currently working on the following projects:
-
-- 💜 | ⚠️ = Personal website
+- 💜 | ⚠️ = Personal website | https://zuxsy.com/
 
 - 💜 | ⚠️ = Kyoto Sniper | https://discord.gg/snipe
 
